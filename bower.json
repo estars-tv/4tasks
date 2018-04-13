@@ -1,0 +1,18 @@
+{
+  "name": "4task",
+  "version": "latest",
+  "authors": "Maslivets A.",
+  "homepage": "https://github.com/estars-tv/4tasks",
+  "ignore": [
+    "dependencies",
+    ".bowerrc",
+    ".gitignore",
+    "bower.json"
+  ],
+  "dependencies": {
+    "jasmine": "^3.1.0"
+  },
+  "install": {
+    "path": "/lib"
+  }
+}
